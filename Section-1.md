@@ -50,7 +50,7 @@ Here we have the commands to complete this exercise
 ## Commands used 
 
 ```bash
-git branch bugFix
+git branch 
 
 git chekcout bugFix
 
@@ -61,3 +61,44 @@ These are the two commands we use for branching
 <img width="1919" height="1079" alt="Level-2 Solved" src="https://github.com/user-attachments/assets/1d9fe8b4-a03c-4857-a767-aabb127ad347" />
 
 This is the image which I have solved the Level-2 
+
+## Level-3 
+
+This level is about merging in git 
+
+In this level we are going learn about merging 
+
+Merging joins two branches by creating a new commit that points to both branch histories.
+
+## Goals to Reach 
+
+<img width="1919" height="1061" alt="Level-3" src="https://github.com/user-attachments/assets/bc44aba8-d3dd-4ab2-918a-5f04dcbc7222" />
+
+This image tell us what is the goal of this exercise
+
+Here we have the commands to complete this exercise
+
+<img width="1914" height="1079" alt="Level-3 Commands" src="https://github.com/user-attachments/assets/205677ad-a398-49f8-9b5d-a72ff0b6d955" />
+
+## Commands Used 
+
+```bash
+git branch bugFix
+
+git checkout bugFix
+
+git commit
+
+git checkout main
+
+git commit
+
+git merge bugFix
+
+```
+
+These are the commands we are going to use, to solve this exercise 
+
+<img width="1919" height="1073" alt="Level-3 Solved" src="https://github.com/user-attachments/assets/806e50a3-5715-40c1-9878-fbbe1c2c7ef3" />
+
+This is the image which I have solved the Level-3 
