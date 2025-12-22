@@ -19,7 +19,9 @@ Here we have the commands to complete this exercise
 ```bash
 git commit
 
-git commit ```
+git commit
+
+```
 
 These are two commands we use for commit 
 
