@@ -103,6 +103,8 @@ git merge bugFix
 
 These are the commands we are going to use, to solve this exercise.
 
+## Solved
+
 <img width="1919" height="1073" alt="Level-3 Solved" src="https://github.com/user-attachments/assets/806e50a3-5715-40c1-9878-fbbe1c2c7ef3" />
 
 This is the image which I have solved the Level-3.
@@ -145,6 +147,8 @@ git reabase main
 ```
 
 These are the commands we are going to use, to solve this exercise.
+
+## Solved
 
 <img width="1919" height="1079" alt="Level-4 Solved" src="https://github.com/user-attachments/assets/6909050b-e6dc-4803-a6c0-07b0356b034c" />
 
