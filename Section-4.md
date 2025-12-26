@@ -24,3 +24,8 @@ git rebase -i main --solution-ordering C4
 git rebase bugFix main
 ```
 
+These are the commands we are used to solve this level.
+
+<img width="1919" height="1079" alt="Level-10 Solved" src="https://github.com/user-attachments/assets/11d78b7f-5558-4351-b4b1-f2e9ee321c2c" />
+
+
