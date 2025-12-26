@@ -12,7 +12,7 @@ Cherry-pick lets you copy a specific commit from one branch and apply it onto an
 
 <img width="1919" height="1079" alt="Level-8" src="https://github.com/user-attachments/assets/5e4db298-67e4-4158-9365-a28ceddef353" />
 
-Here we have the goals to solve in this level.
+Here we can see, what goals we have to reach in this level.
 
 In this picture we are going see the commands to solve this level.
 
