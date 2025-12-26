@@ -81,7 +81,7 @@ In this picture we are going to see the commands to slove this level.
 ## Commands Used 
 
 ```
-git branch -f main HEAD~1
+git branch -f main C6
 
 git checkout HEAD~1
 
