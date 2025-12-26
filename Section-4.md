@@ -16,3 +16,11 @@ In this picture we are going see the commands to solve this level.
 
 <img width="1919" height="1079" alt="Level-10 Commands" src="https://github.com/user-attachments/assets/ff3c1f5f-8eea-41bd-953f-5754ff4f98cc" />
 
+## Commands Used
+
+```
+git rebase -i main --solution-ordering C4
+
+git rebase bugFix main
+```
+
