@@ -21,7 +21,7 @@ In this picture we are going see the commands to solve this level.
 ```
 git rebase -i main --solution-ordering C4
 
-git rebase bugFix main
+git rebase bugFix main 
 ```
 
 These are the commands we are used to solve this level.
