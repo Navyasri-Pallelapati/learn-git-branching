@@ -23,3 +23,7 @@ In this picture we are going to see the commands to slove this level.
 ```
 git checkout C4
 ```
+
+Here is the one command to slove this level.
+
+<img width="1919" height="1077" alt="Level-5 Solved" src="https://github.com/user-attachments/assets/dce48499-a344-4964-ac86-96fc75bd7097" />
